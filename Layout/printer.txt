@@ -1,0 +1,45 @@
+^XA
+^KV0,9,0,0,400
+^SEE:CP936.DAT
+
+###### EVENT TITLE NAME #######
+
+^FT90,120^A@N,55,55, E:BHTTP.TTF^CI28^FDPWTC GZCESC 一带一路^FS
+
+^FT220,180^A@N,55,55, E:BHTTP.TTF^CI28^FDMOU签署仪式^FS
+
+###### --------------- #######
+
+######## COMPANY NAME ########
+
+^FT100,360^A@N,40,40, E:BHTTP.TTF^FB600,2,10,C,0^CI28^FD广州没有^FS
+
+###### --------------- #######
+
+######### JOB TITLE ##########
+
+^FT100,430^A@N,40,40, E:BHTTP.TTF^FB600,2,10,C,0^CI28^FD做空没有^FS
+
+###### --------------- #######
+
+####### VISITOR NAME #########
+
+^FT100,550^A@N,60,60, E:BHTTP.TTF^FB600,2,10,C,0^CI28^FD冲他那雨^FS
+
+###### --------------- #######
+
+######### QR CODE ############
+
+^BY5,2,30^FT300,750^BQN,2,4^FDQA,{{VISITOR_QR_URL}}^FS
+
+###### --------------- #######
+
+######### PWA URL ############
+
+^FT100,820^A@N,20,20, E:BHTTP.TTF^FB600,2,10,C,0^FD{{VISITOR_ACTIVATION_CODE_URL}}^FS
+
+###### --------------- #######
+
+^FT300,870^A@N,55,55, E:BHTTP.TTF^CI28^FDVIP 贵宾^FS
+
+^XZ

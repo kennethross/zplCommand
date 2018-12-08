@@ -1,0 +1,21 @@
+^XA
+^KV0,9,0,0,400
+^SEB:CP936.DAT
+
+###### EVENT TITLE NAME #######
+
+^FT90,120^A@N,55,55, B:NSCJKBL.TTF^CI28^FDPWTC GZCESC 一带一路^FS
+
+^FT220,180^A@N,55,55, B:NSCJKBL.TTF^CI28^FDMOU签署仪式^FS
+
+###### --------------- #######
+
+####### COMPANY NAME #########
+
+^FT100,550^A@N,60,60, B:NSCJKR.TTF^FB600,2,10,C,0^CI28^FD{{COMPANY_NAME}}^FS
+
+###### --------------- #######
+
+^FT300,870^A@N,55,55, B:NSCJKBL.TTF^CI28^FDVIP 贵宾^FS
+
+^XZ
